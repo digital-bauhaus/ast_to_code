@@ -14,7 +14,7 @@ public class ASTToCode {
 
         JavaParserJsonDeserializer deserializer = new JavaParserJsonDeserializer();
 
-        System.out.println(json_string);
+        //System.out.println(json_string);
         StringReader json = new StringReader(json_string);
 
 
